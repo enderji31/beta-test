@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# This is  an header <h1> theme: jekyll-theme-merlot
+![Image].(nhatban.jpg)
 ## Header 2
 ### Header 3
 
